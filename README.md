@@ -2,6 +2,8 @@
 
 A lightweight web application that allows users to check token balances on the Koinos blockchain.
 
+![image](https://github.com/user-attachments/assets/7209b035-69bc-402f-bb13-7b10fb8c34fa)
+
 ## Overview
 
 This simple dapp demonstrates how to interact with the Koinos blockchain API to query token balances for any address or nickname. The application features a clean, mobile-friendly interface built with PicoCSS.
